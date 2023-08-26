@@ -1,0 +1,19 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "api_rest",
+            "username": "root",
+            "name": "api_rest"
+        }
+    ]
+}
